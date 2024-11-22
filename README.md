@@ -44,4 +44,4 @@ y = A<sup>x</sup>
 
 
 
-[Про go](#calcgeom)
+[Про go](#язык-go)
