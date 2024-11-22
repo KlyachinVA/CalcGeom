@@ -22,7 +22,7 @@ int i;
 x += i;
 
 ```
-
+# Язык Go
 ```go
 package main
 import "fmt"
@@ -41,3 +41,7 @@ y = A<sup>x</sup>
 > Следуйте указаниям в документации!!!
 
 ![picture](./converted.png)
+
+
+
+[Про go](#calcgeom)
