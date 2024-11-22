@@ -16,6 +16,23 @@ cv.imshow(im)
 
 ```
 :+1:
+```c++
+int x;
+int i;
+x += i;
+
+```
+
+```go
+package main
+import "fmt"
+
+func main(){
+  txt := "Привет"
+  fmt.Println(txt)
+}
+```
+y = A<sup>x</sup>
 
 > [!NOTE]
 > Много полезного найдете в 
